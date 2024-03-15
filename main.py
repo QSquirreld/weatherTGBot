@@ -4,8 +4,8 @@ from telebot import types
 import requests
 import datetime
 
-token = "5144692520:AAFI2XWfbAXLp0qNxmyjIGtBbvk44qGjO0A"
-appid = "34b86218becf894fc3c9dca47594c021"
+token = ""
+appid = ""
 
 bot = telebot.TeleBot(token)
 s_city = "Moscow, RU"
